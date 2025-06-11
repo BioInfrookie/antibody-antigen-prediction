@@ -1,4 +1,6 @@
 # antibody-antigen-prediction
+![Model structure](https://github.com/BioInfrookie/antibody-antigen-prediction/blob/main/Model.png)
+
 ```Python
 这是一个简易版的深度学习检测抗原抗体互作平台。目的：服务于更多有数据集但无法公开发表的人员及机构，可以让其更快的训练互作模型，更好的向前推进项目。
 Author：Qiao Zhenghao
